@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.6.4",
+  "iOS" : [
+    {
+      "name" : "VKSdkFramework",
+      "hash" : "49366706f4f2087e954846c2ec6fadcb08fc3f18c580ad73f796c945d4d289d2",
+      "linking" : "dynamic"
+    }
+  ]
+}
